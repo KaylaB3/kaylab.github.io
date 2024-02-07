@@ -1,0 +1,79 @@
+* { box-sizing:border-box; 
+}
+body {
+    background-color: black
+}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Playfair+Display&family=Zeyada&display=swap');
+
+ #chanel-1 img {
+    width: 50%;
+    
+}
+
+#chanel-1 {
+    width: 50%;
+    min-width: 500px;
+    margin: 0px auto;
+    text-align: center;
+  
+}
+#chanel-2 {
+    width: 50%;
+    min-width: 500px;
+    margin: 0px auto;
+    text-align: center;
+    
+
+}
+#chanel-2 img {
+    width: 50%;
+    
+}
+#chanel-3 img {
+    width: 50%;
+
+}
+#chanel-4 img {
+    width: 50%;
+}
+#chanel-5 img {
+    width: 50%;
+}
+#chanel-3 {
+    width: 50%;
+    min-width: 500px;
+    margin: 0px auto;
+    text-align: center;
+}
+#chanel-4 {
+    width: 50%;
+    min-width: 500px;
+    margin: 0px auto;
+    text-align: center;
+}
+#chanel-5 {
+    width: 50%;
+    min-width: 500px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.container-1 {
+    background-color: pink;
+}
+.container-2 {
+background-color: cornsilk;
+
+}
+.container-3 {
+    background-color: antiquewhite;
+}
+.container-4 {
+  background-color: burlywood;
+}
+.container-5 {
+    background-color: bisque;
+}
+#chanel-1 p, #chanel-2 p, #chanel-3 p, #chanel-4 p, #chanel-5 p {
+    font-family: 'Zeyada', cursive;
+}
