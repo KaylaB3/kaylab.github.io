@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+ #grid-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+ }
+ #header {
+    background-color: pink;
+  
+ }
+ #sidebar {
+    background-color: bisque;
+    grid-area: 
+    ;
+   
+ }
+ #main {
+    background-color: palevioletred;
+    
+ }
+ #sidebar img {
+    width: 100px;
+ }
+ #main img {
+    width: 100px;
+    
+ }
