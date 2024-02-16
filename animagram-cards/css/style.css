@@ -7,3 +7,48 @@
     Just be aware that you may break some
     of the setup.css styling if you do so.
 */
+ * {
+    box-sizing: border-box;
+ }
+ div {
+    display: block;
+ }
+ body {
+    margin: auto;
+    font-family: sans-serif;
+ }
+.card-style-2 {
+    background-color: white;
+    text-align: center;
+    margin: 48px;
+    border-radius: 14px;
+    border: 3px solid white;
+    max-width: 350px;
+
+}
+ 
+
+
+
+.card-style-2 img {
+    width: 50%;
+    border-radius: 50%;
+    
+
+}
+
+.logo {
+    margin-right:  65%;
+
+}
+.brand-name {
+   margin-left: 50%;
+    font-size: 30px;
+  
+    
+}
+.animagram-footer{
+    margin: 20px;
+    font-size: 20px;
+
+}
