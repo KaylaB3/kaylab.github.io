@@ -462,8 +462,12 @@ body {
  }
  @media screen and (max-width: 800px) {
     #grid-layout {
+        display: grid;
         grid-template-columns: 1fr;
+        grid-template-areas: 
+     "card-1" "card-2 card-3"
     }
+    
     
  }
  
